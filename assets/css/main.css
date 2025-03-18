@@ -1033,6 +1033,9 @@ canvas.particles-js-canvas-el {
 .portfolio .img-overlay-content h5 {
   color: #fafafa;
 }
+.portfolio-item-content .img-overlay-content p {
+    padding: 0 20px;
+}
 
 .portfolio .portfolio-icon a {
   background-color: white;
